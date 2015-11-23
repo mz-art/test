@@ -3,3 +3,8 @@
 
 ## Issue Tracker 
 https://dev-issue.pentacle.co.kr/projects/test-project
+
+## Continuous Integration
+https://dev-ci.pentacle.co.kr/job/Test-Project/
+
+
