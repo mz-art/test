@@ -14,7 +14,7 @@ namespace Test.Controllers {
 
         [Route("about")]
         public ActionResult About() {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "깃허브테스트중";
 
             return View();
         }
